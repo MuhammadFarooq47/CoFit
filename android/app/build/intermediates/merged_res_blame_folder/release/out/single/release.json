@@ -1,0 +1,782 @@
+[
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_adaptiveicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_adaptiveicon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pin2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pin2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_eventnew1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_eventnew1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_map3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_map3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_upload.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_upload.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_magnifer1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_magnifer1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pencil.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pencil.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_stockimage1.jpg.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_stockimage1.jpg"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_card1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_card1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_group1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_group1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_discover.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_discover.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_checkbox.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_checkbox.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_calendar.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_calendar.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pen.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pen.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_next.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_next.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_running.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_running.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_home3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_home3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_info1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_info1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_call.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_call.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_ball.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_ball.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_loc.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_loc.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_stockimage2.jpg.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_stockimage2.jpg"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_arrowtr.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_arrowtr.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_backarrow.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_backarrow.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_mapactive.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_mapactive.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_usergirl.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_usergirl.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\layout_launch_screen.xml.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_zumba.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_zumba.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_skip.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_skip.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_clock1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_clock1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_cofitlogo.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_cofitlogo.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_apple.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_apple.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_image2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_image2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_mic.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_mic.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_male.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_male.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_settings.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_settings.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profile.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profile.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_msg.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_msg.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_gradient.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_gradient.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_list.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_list.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_cancel.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_cancel.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_relax.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_relax.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_star.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_star.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_homeactive.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_homeactive.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_walkthrough3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_walkthrough3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_home4.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_home4.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_locc.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_locc.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_home1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_home1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_cofit.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_cofit.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_launch_screen.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\drawable\\launch_screen.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_paypal.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_paypal.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_dumble1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_dumble1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_stockimage4.jpg.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_stockimage4.jpg"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_filter.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_filter.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_blackloc.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_blackloc.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_paypal1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_paypal1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_calendar1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_calendar1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_stripe.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_stripe.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_heart.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_heart.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_noevent.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_noevent.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_timenew.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_timenew.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_user.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_user.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_event1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_event1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_map1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_map1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_mapimg.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_mapimg.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_vector.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_vector.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_time3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_time3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_checknew.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_checknew.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativecheckbox_img_ic_check_box.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_maps1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_maps1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_home2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_home2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_del.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_del.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_amex.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_amex.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_close.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_close.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_locnew.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_locnew.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_plus.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_plus.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_map2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_map2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_event2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_event2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_mastercard.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_mastercard.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_gymicon1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_gymicon1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_stockimage3.jpg.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_stockimage3.jpg"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_pen3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_pen3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_image1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_image1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profile2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profile2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable_rn_edit_text_material.xml.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_barcode.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_barcode.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_visa.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_visa.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_card.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_card.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_fire1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_fire1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_leisure.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_leisure.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_location2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_location2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_checkcircle.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_checkcircle.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_share.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_share.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profile3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profile3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_other.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_other.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_camea.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_camea.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_securitypass.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_securitypass.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_location.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_location.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_map.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_map.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_icon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_icon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_location3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_location3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profile4.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profile4.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_page.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_page.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_arrowbl.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_arrowbl.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_logo1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_logo1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_image5.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_image5.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_car.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_car.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_location4.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_location4.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_docedit.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_docedit.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_favicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_favicon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profileactive.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profileactive.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_creditcard.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_creditcard.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_profile1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_profile1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_timee.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_timee.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_arrnew1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_arrnew1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_female.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_female.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_bulb.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_bulb.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_tick.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_tick.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_flashnw1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_flashnw1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_prohibition.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_prohibition.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_home.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_home.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xhdpi_node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_arrdown.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_arrdown.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_back.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_back.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_splash.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_splash.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_closebutton.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_closebutton.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_groupbg.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_groupbg.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_facebook.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_facebook.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_country.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_country.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_shield.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_shield.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_camera1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_camera1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_promotion.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_promotion.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_googleicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_googleicon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_clockb.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_clockb.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_gift.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_gift.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_speed.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_speed.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_search.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_search.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_delcircle.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_delcircle.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_magnifer.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_magnifer.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_heart1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_heart1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_clocknew.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_clocknew.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_arrnew.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_arrnew.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_walkthrough1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_walkthrough1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_stockimage5.jpg.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_stockimage5.jpg"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_bank.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_bank.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_camera.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_camera.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_image3.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_image3.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_calnew.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_calnew.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_share1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_share1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_info.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_info.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_privacy.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_privacy.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_applepay.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_applepay.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_time.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_time.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_noresults.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_noresults.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_walkthrough2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_walkthrough2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativegoogleplacesautocomplete_images_powered_by_google_on_white.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_myevents.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_myevents.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_send.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_send.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_home5.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_home5.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_nonbinary.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_nonbinary.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_location5.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_location5.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_camera2.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_camera2.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_image4.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_image4.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_maps.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_maps.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_backimg.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_backimg.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_clock.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_clock.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_bottom.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_bottom.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_time1.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_time1.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_logout.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_logout.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-mdpi_src_assets_images_locationpin.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_locationpin.png"
+    },
+    {
+        "merged": "D:\\CoFitapp\\android\\app\\build\\intermediates\\merged_res\\release\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "D:\\CoFitapp\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]

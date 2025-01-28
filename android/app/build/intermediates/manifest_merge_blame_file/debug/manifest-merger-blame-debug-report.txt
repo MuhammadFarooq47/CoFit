@@ -1,0 +1,642 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cofitnew.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->D:\CoFitapp\android\app\src\debug\AndroidManifest.xml:5:5-77
+11-->D:\CoFitapp\android\app\src\debug\AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:4:5-67
+12-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:5:5-79
+13-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:5:22-76
+14    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+14-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:6:5-75
+14-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:6:22-73
+15    <uses-permission android:name="android.permission.CAMERA" />
+15-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:7:5-64
+15-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:7:22-62
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:8:6-82
+16-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:8:23-79
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:9:6-80
+17-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:9:23-77
+18    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+18-->[com.facebook.flipper:flipper:0.125.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
+18-->[com.facebook.flipper:flipper:0.125.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\85fdd9af1f70f27ec9080a3596d5a5c1\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+19    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+19-->[:react-native-fs] D:\CoFitapp\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-81
+19-->[:react-native-fs] D:\CoFitapp\node_modules\react-native-fs\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:22-78
+20
+21    <queries>
+21-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-13:15
+22        <intent>
+22-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-12:18
+23            <action android:name="android.media.action.IMAGE_CAPTURE" />
+23-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-73
+23-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:21-70
+24        </intent>
+25        <!-- Needs to be explicitly declared on Android R+ -->
+26        <package android:name="com.google.android.apps.maps" />
+26-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+26-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+27    </queries> <!-- Required to access Google Play Licensing -->
+28    <uses-permission android:name="com.android.vending.CHECK_LICENSE" />
+28-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:5-73
+28-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:22-70
+29    <!--
+30         Required to keep CPU alive while downloading files
+31        (NOT to keep screen awake)
+32    -->
+33    <uses-permission android:name="android.permission.WAKE_LOCK" />
+33-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:5-68
+33-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:22-65
+34    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+34-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:25:5-81
+34-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:25:22-78
+35    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+35-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:26:5-77
+35-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:26:22-74
+36    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+36-->[com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+36-->[com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:22-79
+37
+38    <uses-feature
+38-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+39        android:glEsVersion="0x00020000"
+39-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+40        android:required="true" />
+40-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+41
+42    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+42-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:9:5-77
+42-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:9:22-74
+43    <uses-permission android:name="android.permission.VIBRATE" />
+43-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:13:5-66
+43-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:13:22-63
+44    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+44-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:16:5-81
+44-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:16:22-78
+45    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+45-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:17:5-79
+45-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:17:22-76
+46    <uses-permission
+46-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:18:5-20:38
+47        android:name="android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS"
+47-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:19:9-73
+48        android:maxSdkVersion="30" /> <!-- For Xiaomi devices to enable heads-up notifications as default (https://github.com/invertase/notifee/issues/296) -->
+48-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:20:9-35
+49    <uses-permission
+49-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:22:5-24:38
+50        android:name="android.permission.ACCESS_NOTIFICATION_POLICY"
+50-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:23:9-69
+51        android:minSdkVersion="23" />
+51-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:24:9-35
+52    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+52-->[com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:5-110
+52-->[com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:22-107
+53
+54    <application
+54-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:13:5-51:19
+55        android:name="com.cofitnew.app.MainApplication"
+55-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:14:7-38
+56        android:allowBackup="false"
+56-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:18:7-34
+57        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+57-->[androidx.core:core:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5b3cd3ee8b61a47e61b451e2ef7310a8\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+58        android:debuggable="true"
+59        android:icon="@mipmap/ic_launcher"
+59-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:16:7-41
+60        android:label="@string/app_name"
+60-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:15:7-39
+61        android:roundIcon="@mipmap/ic_launcher_round"
+61-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:17:7-52
+62        android:theme="@style/AppTheme"
+62-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:19:7-38
+63        android:usesCleartextTraffic="true" >
+63-->D:\CoFitapp\android\app\src\debug\AndroidManifest.xml:8:9-44
+64        <activity
+64-->D:\CoFitapp\android\app\src\debug\AndroidManifest.xml:11:9-111
+65            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+65-->D:\CoFitapp\android\app\src\debug\AndroidManifest.xml:11:19-83
+66            android:exported="false" />
+66-->D:\CoFitapp\android\app\src\debug\AndroidManifest.xml:11:84-108
+67
+68        <meta-data
+68-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:21:10-24:5
+69            android:name="com.google.android.geo.API_KEY"
+69-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:22:5-50
+70            android:value="AIzaSyBpVX6Xl4OEftECYrN-wauMw7dpUyl6GiI" />
+70-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:23:5-60
+71
+72        <activity
+72-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:25:7-49:18
+73            android:name="com.cofitnew.app.MainActivity"
+73-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:26:9-37
+74            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+74-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:28:9-118
+75            android:exported="true"
+75-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:31:9-32
+76            android:label="@string/app_name"
+76-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:27:9-41
+77            android:launchMode="singleTask"
+77-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:29:9-40
+78            android:windowSoftInputMode="adjustResize" >
+78-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:30:9-51
+79            <intent-filter>
+79-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:32:9-35:25
+80                <action android:name="android.intent.action.MAIN" />
+80-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:33:13-65
+80-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:33:21-62
+81
+82                <category android:name="android.intent.category.LAUNCHER" />
+82-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:34:13-73
+82-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:34:23-70
+83            </intent-filter>
+84            <intent-filter>
+84-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:36:9-41:25
+85                <action android:name="android.intent.action.VIEW" />
+85-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:37:13-65
+85-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:37:21-62
+86
+87                <category android:name="android.intent.category.DEFAULT" />
+87-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:38:13-72
+87-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:38:23-69
+88                <category android:name="android.intent.category.BROWSABLE" />
+88-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:39:13-74
+88-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:39:23-71
+89
+90                <data android:scheme="cofit" />
+90-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:40:13-44
+90-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:40:19-41
+91            </intent-filter>
+92            <intent-filter android:autoVerify="true" >
+92-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:42:9-48:25
+92-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:42:24-49
+93                <action android:name="android.intent.action.VIEW" />
+93-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:37:13-65
+93-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:37:21-62
+94
+95                <category android:name="android.intent.category.DEFAULT" />
+95-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:38:13-72
+95-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:38:23-69
+96                <category android:name="android.intent.category.BROWSABLE" />
+96-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:39:13-74
+96-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:39:23-71
+97
+98                <data android:scheme="https" />
+98-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:40:13-44
+98-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:40:19-41
+99                <data android:host="apple.cofitapp.com" />
+99-->D:\CoFitapp\android\app\src\main\AndroidManifest.xml:40:13-44
+100            </intent-filter>
+101        </activity>
+102
+103        <provider
+103-->[:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-14:40
+104            android:name="io.invertase.notifee.NotifeeInitProvider"
+104-->[:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-68
+105            android:authorities="com.cofitnew.app.notifee-init-provider"
+105-->[:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-73
+106            android:exported="false"
+106-->[:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+107            android:initOrder="-100" />
+107-->[:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-37
+108        <provider
+108-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:9-26:20
+109            android:name="com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider"
+109-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:13-94
+110            android:authorities="com.cofitnew.app.provider"
+110-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-60
+111            android:exported="false"
+111-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-37
+112            android:grantUriPermissions="true" >
+112-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:13-47
+113            <meta-data
+113-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+114                android:name="android.support.FILE_PROVIDER_PATHS"
+114-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+115                android:resource="@xml/ivpusic_imagepicker_provider_paths" />
+115-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+116        </provider>
+117
+118        <activity
+118-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:28:9-30:72
+119            android:name="com.yalantis.ucrop.UCropActivity"
+119-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:29:13-60
+120            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+120-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:30:13-69
+121
+122        <provider
+122-->[:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-18:20
+123            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+123-->[:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-83
+124            android:authorities="com.cofitnew.app.fileprovider"
+124-->[:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-64
+125            android:exported="false"
+125-->[:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-37
+126            android:grantUriPermissions="true" >
+126-->[:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-47
+127            <meta-data
+127-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+128                android:name="android.support.FILE_PROVIDER_PATHS"
+128-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+129                android:resource="@xml/file_provider_paths" />
+129-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+130        </provider>
+131        <provider
+131-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:34:9-42:20
+132            android:name="com.RNFetchBlob.Utils.FileProvider"
+132-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:35:13-62
+133            android:authorities="com.cofitnew.app.provider"
+133-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:36:13-60
+134            android:exported="false"
+134-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:37:13-37
+135            android:grantUriPermissions="true" >
+135-->[:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:38:13-47
+136            <meta-data
+136-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-25:78
+137                android:name="android.support.FILE_PROVIDER_PATHS"
+137-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:17-67
+138                android:resource="@xml/provider_paths" />
+138-->[:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:17-75
+139        </provider>
+140        <provider
+140-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:29:9-37:20
+141            android:name="androidx.startup.InitializationProvider"
+141-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:30:13-67
+142            android:authorities="com.cofitnew.app.androidx-startup"
+142-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:31:13-68
+143            android:exported="false" >
+143-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:32:13-37
+144            <meta-data
+144-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:34:13-36:52
+145                android:name="androidx.work.WorkManagerInitializer"
+145-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:35:17-68
+146                android:value="androidx.startup" />
+146-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:36:17-49
+147            <meta-data
+147-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+148                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+148-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+149                android:value="androidx.startup" />
+149-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+150            <meta-data
+150-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+151                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+151-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+152                android:value="androidx.startup" />
+152-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+153        </provider>
+154
+155        <service
+155-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:39:9-45:35
+156            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+156-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:40:13-88
+157            android:directBootAware="false"
+157-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:41:13-44
+158            android:enabled="@bool/enable_system_alarm_service_default"
+158-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:42:13-72
+159            android:exported="false" />
+159-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:43:13-37
+160        <service
+160-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:46:9-52:35
+161            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+161-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:47:13-84
+162            android:directBootAware="false"
+162-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:48:13-44
+163            android:enabled="@bool/enable_system_job_service_default"
+163-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:49:13-70
+164            android:exported="true"
+164-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:50:13-36
+165            android:permission="android.permission.BIND_JOB_SERVICE" />
+165-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:51:13-69
+166        <service
+166-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:53:9-59:35
+167            android:name="androidx.work.impl.foreground.SystemForegroundService"
+167-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:54:13-81
+168            android:directBootAware="false"
+168-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:55:13-44
+169            android:enabled="@bool/enable_system_foreground_service_default"
+169-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:56:13-77
+170            android:exported="false" />
+170-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:57:13-37
+171
+172        <receiver
+172-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:61:9-66:35
+173            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+173-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:62:13-88
+174            android:directBootAware="false"
+174-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:63:13-44
+175            android:enabled="true"
+175-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:64:13-35
+176            android:exported="false" />
+176-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:65:13-37
+177        <receiver
+177-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:67:9-77:20
+178            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+178-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:68:13-106
+179            android:directBootAware="false"
+179-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:69:13-44
+180            android:enabled="false"
+180-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:70:13-36
+181            android:exported="false" >
+181-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:71:13-37
+182            <intent-filter>
+182-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:73:13-76:29
+183                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+183-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:74:17-87
+183-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:74:25-84
+184                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+184-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:75:17-90
+184-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:75:25-87
+185            </intent-filter>
+186        </receiver>
+187        <receiver
+187-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:78:9-88:20
+188            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+188-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:79:13-104
+189            android:directBootAware="false"
+189-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:80:13-44
+190            android:enabled="false"
+190-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:81:13-36
+191            android:exported="false" >
+191-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:82:13-37
+192            <intent-filter>
+192-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:84:13-87:29
+193                <action android:name="android.intent.action.BATTERY_OKAY" />
+193-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:85:17-77
+193-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:85:25-74
+194                <action android:name="android.intent.action.BATTERY_LOW" />
+194-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:86:17-76
+194-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:86:25-73
+195            </intent-filter>
+196        </receiver>
+197        <receiver
+197-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:89:9-99:20
+198            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+198-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:90:13-104
+199            android:directBootAware="false"
+199-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:91:13-44
+200            android:enabled="false"
+200-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:92:13-36
+201            android:exported="false" >
+201-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:93:13-37
+202            <intent-filter>
+202-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:95:13-98:29
+203                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+203-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:96:17-83
+203-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:96:25-80
+204                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+204-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:97:17-82
+204-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:97:25-79
+205            </intent-filter>
+206        </receiver>
+207        <receiver
+207-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:100:9-109:20
+208            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+208-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:101:13-103
+209            android:directBootAware="false"
+209-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:102:13-44
+210            android:enabled="false"
+210-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:103:13-36
+211            android:exported="false" >
+211-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:104:13-37
+212            <intent-filter>
+212-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:106:13-108:29
+213                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+213-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:107:17-79
+213-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:107:25-76
+214            </intent-filter>
+215        </receiver>
+216        <receiver
+216-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:110:9-121:20
+217            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+217-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:111:13-88
+218            android:directBootAware="false"
+218-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:112:13-44
+219            android:enabled="false"
+219-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:113:13-36
+220            android:exported="false" >
+220-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:114:13-37
+221            <intent-filter>
+221-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:116:13-120:29
+222                <action android:name="android.intent.action.BOOT_COMPLETED" />
+222-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:17-79
+222-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:25-76
+223                <action android:name="android.intent.action.TIME_SET" />
+223-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:118:17-73
+223-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:118:25-70
+224                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+224-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:119:17-81
+224-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:119:25-78
+225            </intent-filter>
+226        </receiver>
+227        <receiver
+227-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:122:9-131:20
+228            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+228-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:123:13-99
+229            android:directBootAware="false"
+229-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:124:13-44
+230            android:enabled="@bool/enable_system_alarm_service_default"
+230-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:125:13-72
+231            android:exported="false" >
+231-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:126:13-37
+232            <intent-filter>
+232-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:128:13-130:29
+233                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+233-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:129:17-98
+233-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:129:25-95
+234            </intent-filter>
+235        </receiver>
+236        <receiver
+236-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:132:9-142:20
+237            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+237-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:133:13-78
+238            android:directBootAware="false"
+238-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:134:13-44
+239            android:enabled="true"
+239-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:135:13-35
+240            android:exported="true"
+240-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:136:13-36
+241            android:permission="android.permission.DUMP" >
+241-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:137:13-57
+242            <intent-filter>
+242-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:139:13-141:29
+243                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+243-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:140:17-88
+243-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:140:25-85
+244            </intent-filter>
+245        </receiver>
+246
+247        <service
+247-->[androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+248            android:name="androidx.room.MultiInstanceInvalidationService"
+248-->[androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+249            android:directBootAware="true"
+249-->[androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+250            android:exported="false" />
+250-->[androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+251
+252        <meta-data
+252-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:11:9-13:43
+253            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+253-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:12:13-84
+254            android:value="GlideModule" />
+254-->[com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:13:13-40
+255
+256        <activity
+256-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:23:9-27:75
+257            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+257-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:24:13-93
+258            android:excludeFromRecents="true"
+258-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:25:13-46
+259            android:exported="false"
+259-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:26:13-37
+260            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+260-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:27:13-72
+261        <!--
+262            Service handling Google Sign-In user revocation. For apps that do not integrate with
+263            Google Sign-In, this service will never be started.
+264        -->
+265        <service
+265-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:33:9-37:51
+266            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+266-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:34:13-89
+267            android:exported="true"
+267-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:35:13-36
+268            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+268-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:36:13-107
+269            android:visibleToInstantApps="true" />
+269-->[com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:37:13-48
+270
+271        <meta-data
+271-->[com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:8:9-10:69
+272            android:name="com.google.android.gms.version"
+272-->[com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:9:13-58
+273            android:value="@integer/google_play_services_version" /> <!-- Needs to be explicitly declared on P+ -->
+273-->[com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:10:13-66
+274        <uses-library
+274-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+275            android:name="org.apache.http.legacy"
+275-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+276            android:required="false" />
+276-->[com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+277
+278        <activity
+278-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:9-22:45
+279            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+279-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:19-85
+280            android:exported="false"
+280-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:22:19-43
+281            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Receiver Service -->
+281-->[com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:21:19-78
+282        <service
+282-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:29:9-31:40
+283            android:name="app.notifee.core.ReceiverService"
+283-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:30:13-60
+284            android:exported="false" />
+284-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:31:13-37
+285
+286        <activity
+286-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:33:9-39:75
+287            android:name="app.notifee.core.NotificationReceiverActivity"
+287-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:34:13-73
+288            android:excludeFromRecents="true"
+288-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:35:13-46
+289            android:exported="true"
+289-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:36:13-36
+290            android:noHistory="true"
+290-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:37:13-37
+291            android:taskAffinity=""
+291-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:38:13-36
+292            android:theme="@android:style/Theme.Translucent.NoTitleBar" /> <!-- Foreground Service -->
+292-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:39:13-72
+293        <service
+293-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:42:9-44:40
+294            android:name="app.notifee.core.ForegroundService"
+294-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:43:13-62
+295            android:exported="false" />
+295-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:44:13-37
+296
+297        <receiver
+297-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:46:9-54:20
+298            android:name="app.notifee.core.RebootBroadcastReceiver"
+298-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:47:13-68
+299            android:exported="false" >
+299-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:48:13-37
+300            <intent-filter>
+300-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:49:13-53:29
+301                <action android:name="android.intent.action.BOOT_COMPLETED" />
+301-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:17-79
+301-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:25-76
+302                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+302-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:51:17-82
+302-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:51:25-79
+303                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+303-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:52:17-82
+303-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:52:25-79
+304            </intent-filter>
+305        </receiver>
+306        <receiver
+306-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:55:9-61:20
+307            android:name="app.notifee.core.AlarmPermissionBroadcastReceiver"
+307-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:56:13-77
+308            android:exported="true" >
+308-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:57:13-36
+309            <intent-filter>
+309-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:58:13-60:29
+310                <action android:name="android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED" />
+310-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:59:17-107
+310-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:59:25-104
+311            </intent-filter>
+312        </receiver>
+313        <receiver
+313-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:62:9-70:20
+314            android:name="app.notifee.core.NotificationAlarmReceiver"
+314-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:63:13-70
+315            android:exported="false" >
+315-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:64:13-37
+316            <intent-filter>
+316-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:49:13-53:29
+317                <action android:name="android.intent.action.BOOT_COMPLETED" />
+317-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:17-79
+317-->[androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:25-76
+318                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+318-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:51:17-82
+318-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:51:25-79
+319                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+319-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:52:17-82
+319-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:52:25-79
+320            </intent-filter>
+321        </receiver> <!-- Broadcast Receiver -->
+322        <receiver
+322-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:73:9-81:20
+323            android:name="app.notifee.core.BlockStateBroadcastReceiver"
+323-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:74:13-72
+324            android:exported="false" >
+324-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:75:13-37
+325            <intent-filter>
+325-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:76:13-80:29
+326                <action android:name="android.app.action.APP_BLOCK_STATE_CHANGED" />
+326-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:77:17-85
+326-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:77:25-82
+327                <action android:name="android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED" />
+327-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:78:17-102
+327-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:78:25-99
+328                <action android:name="android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED" />
+328-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:79:17-108
+328-->[app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:79:25-105
+329            </intent-filter>
+330        </receiver>
+331    </application>
+332
+333</manifest>

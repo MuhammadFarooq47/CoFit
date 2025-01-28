@@ -1,0 +1,1061 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from [:invertase_react-native-apple-authentication] D:\CoFitapp\node_modules\@invertase\react-native-apple-authentication\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-10:12
+MERGED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:react-native-async-storage_async-storage] D:\CoFitapp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_geolocation] D:\CoFitapp\node_modules\@react-native-community\geolocation\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] D:\CoFitapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-google-signin_google-signin] D:\CoFitapp\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:amazon-cognito-identity-js] D:\CoFitapp\node_modules\amazon-cognito-identity-js\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-date-picker] D:\CoFitapp\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-device-info] D:\CoFitapp\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fast-image] D:\CoFitapp\node_modules\react-native-fast-image\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-fs] D:\CoFitapp\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-geolocation-service] D:\CoFitapp\node_modules\react-native-geolocation-service\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-33:12
+MERGED from [:react-native-maps] D:\CoFitapp\node_modules\react-native-maps\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] D:\CoFitapp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] D:\CoFitapp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-splash-screen] D:\CoFitapp\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-svg] D:\CoFitapp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-45:12
+MERGED from [com.facebook.react:react-native:0.68.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d96d703c4a0374a3a3ca77494a4531da\transformed\jetified-react-native-0.68.5\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\802d4f962958846f99497701cf3b99d0\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42eed1552eda6b6a294d306c0ec848c7\transformed\browser-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f847d2d73496ec3d012a8ae4db387b4f\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] D:\CoFitapp\node_modules\react-native-sound\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-10:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\96614dfab2e77c458ef331df84c71186\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\de03a6029be782c12d28f5fad56ac0a7\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e055dd3396c32c36ded400f7b61936ea\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\68fc6329660b9ec22b0e702b1db50167\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\0a4040c91546d3de521ea7084a5c821b\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\9c7e5a1c12ba80042a5221623e6e3da6\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\13506c2bbb00fc4de71e523f01470cf7\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\18c621772fdbd4eed3baf1ae5a32093f\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a638552dd96840e09fbc4d7c6cede99e\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\3a255a453005be5cdabbdfcb8d73969f\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dddf6e1ac0e5111113c733921a555718\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\67d14056b295b403e729babe71a271e9\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\1b07afc0bb79743b2de67031be8ea70a\transformed\material-1.6.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd7ec24dc2030eb6160fef3d9a8fc538\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d1956ea26a889983d465be6e062d8c1c\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\65112bbf0ea95c6febc219c9aaa7a4d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\97550cfd3e55f6119a8d83944e2dcffc\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\b12f4135b3cd667c19a2d1aac3d5df11\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\3dad67e27f0f13d4c544ec5c80a21c54\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd92519a43f376896a2776b4ab5b2b2d\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\95ca547a602019e79f8537eac24a6b2d\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\caa4ca4fab4263d7b5eebd46bb20d8c9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ef24baf15d72b40875cbaed2dd32431f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea6a459aac956603994ab6a561a39f53\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\38050d47d714e6df66eb456ca9cb005e\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5fd3d5f1f74bd035790afe86d2695e60\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\16c0c0b039ae01dd0e6d83ccae822e05\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\322aea48817281119371545f56c6bcdc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2989a3a8999bd9c61d8e13db504f7968\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\150a1e8089aa5e500df22f0287cd2019\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\040be45bb82f27b877836715f4031c30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d3b7111f962c769b952b0a4a14352cc1\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\344e91e77ee509cf8fb97c9d4c59318b\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e4cc65531199957ebd427eec720f5251\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\84796b2958c1164c61c76b099db8bb0b\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\04746ee9aa3ad850c05a5e099631c25d\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a025dd8aa4e64ac89afa4cf0e9479ed5\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6318acc1cfcf3078fd82cf055a5bbd80\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6f4f15ef8ee51901eaf7cf4292fc1e7d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\18626f67cdc17dfca9f3faf24eba3271\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\054641bfa3e758885a2797a6568b4cd4\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\984607312a6e8ecf5c8fb0e1aabff2f8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\deb5eb746391b742ddb391109f985e49\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\012c317610130ac07163361597e39f7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6d96996ddeb35327a127f381dedf8de\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\56c7807c4e9a53d01d3b0def16a197ab\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5b3cd3ee8b61a47e61b451e2ef7310a8\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d75aef0782ca4ed2c54237bdb0f5c010\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ba322caf2d176c5b2339c5c5d443ed1e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e469dfb1401e57b6efd07addb68a0f26\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6860ecd3d12c846ddb3a8b59300ee011\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\68fa321893b9d59d2209b899358e1e1b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\9062e797fa008105082a1b4ad943b70e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\62c96dde5e2c9d0a2940f968417aefb3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2b132809905fb611ba2a96b522e30c68\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f9e4d808ea5369ae0bd9e2919f4728a4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\0ca2e25e9c4aa09c8c6ee9673f54bd57\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8b221ddf2af6612777702b023154a16d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\44d5e8d68f132727ce0c5a1a38c71d29\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e7c700db09b3dab7a18096447b2aff5c\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\48f72275b365c97970a5871768952523\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\4f9dee5a418b2d8930d6dfe03f9e872c\transformed\sqlite-2.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea2bc8a6c7153f424ec208fc967ffd36\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\30128efa99cb4dcf9edd5ae034b0b27a\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\174cf8f4cfc4568b11038e8812a5bbd6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a68d0a918b672d4a96ead11f49784994\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:2:1-84:12
+MERGED from [org.greenrobot:eventbus:3.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\c17967d238f555f73c4e4f99d6ae62ac\transformed\jetified-eventbus-3.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\db9a2a00ea58cc0c4c846594eece0bee\transformed\jetified-numberpickerview-v1.1.5\AndroidManifest.xml:2:1-11:12
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\09803fccc50388478b84724ec3d8d5d3\transformed\jetified-time4j-android-4.8-2021a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\c7b1a5899b93ecf6f19e8e321521dd22\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\315041ecfcd1c074893a6e01bca6da3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+	package
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:2:3-29
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-67
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:24:5-67
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:14:5-67
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CAMERA
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:8:6-82
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:8:23-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:9:6-80
+MERGED from [:react-native-community_netinfo] D:\CoFitapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community_netinfo] D:\CoFitapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-79
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:5-79
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:23:5-79
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:24:5-79
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:24:5-79
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:11:5-79
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:9:23-77
+application
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:13:5-51:19
+MERGED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:17:5-31:19
+MERGED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:5-43:19
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:33:5-43:19
+MERGED from [com.facebook.react:react-native:0.68.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d96d703c4a0374a3a3ca77494a4531da\transformed\jetified-react-native-0.68.5\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.68.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d96d703c4a0374a3a3ca77494a4531da\transformed\jetified-react-native-0.68.5\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\1b07afc0bb79743b2de67031be8ea70a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\1b07afc0bb79743b2de67031be8ea70a\transformed\material-1.6.1\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd7ec24dc2030eb6160fef3d9a8fc538\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd7ec24dc2030eb6160fef3d9a8fc538\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd92519a43f376896a2776b4ab5b2b2d\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd92519a43f376896a2776b4ab5b2b2d\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea6a459aac956603994ab6a561a39f53\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea6a459aac956603994ab6a561a39f53\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\16c0c0b039ae01dd0e6d83ccae822e05\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\16c0c0b039ae01dd0e6d83ccae822e05\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\322aea48817281119371545f56c6bcdc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\322aea48817281119371545f56c6bcdc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2989a3a8999bd9c61d8e13db504f7968\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2989a3a8999bd9c61d8e13db504f7968\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\150a1e8089aa5e500df22f0287cd2019\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\150a1e8089aa5e500df22f0287cd2019\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:28:5-143:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5b3cd3ee8b61a47e61b451e2ef7310a8\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5b3cd3ee8b61a47e61b451e2ef7310a8\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ba322caf2d176c5b2339c5c5d443ed1e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ba322caf2d176c5b2339c5c5d443ed1e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e469dfb1401e57b6efd07addb68a0f26\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e469dfb1401e57b6efd07addb68a0f26\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:26:5-82:19
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:26:5-82:19
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\09803fccc50388478b84724ec3d8d5d3\transformed\jetified-time4j-android-4.8-2021a\AndroidManifest.xml:11:5-20
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\09803fccc50388478b84724ec3d8d5d3\transformed\jetified-time4j-android-4.8-2021a\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5b3cd3ee8b61a47e61b451e2ef7310a8\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:15:7-39
+	android:roundIcon
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:17:7-52
+	android:icon
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:16:7-41
+	android:allowBackup
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:18:7-34
+	android:theme
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:19:7-38
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:14:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:21:10-24:5
+	android:value
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:22:5-50
+activity#com.cofitnew.app.MainActivity
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:25:7-49:18
+	android:label
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:27:9-41
+	android:launchMode
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:29:9-40
+	android:windowSoftInputMode
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:30:9-51
+	android:exported
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:31:9-32
+	android:configChanges
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:28:9-118
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:26:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:32:9-35:25
+action#android.intent.action.MAIN
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:33:13-65
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:33:21-62
+category#android.intent.category.LAUNCHER
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:34:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:cofit
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:36:9-41:25
+action#android.intent.action.VIEW
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:37:13-65
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:37:21-62
+category#android.intent.category.DEFAULT
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:38:13-72
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:38:23-69
+category#android.intent.category.BROWSABLE
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:39:23-71
+data
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:40:13-44
+	android:host
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:47:19-52
+	android:scheme
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:40:19-41
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:apple.cofitapp.com+data:scheme:https
+ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:42:9-48:25
+	android:autoVerify
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml:42:24-49
+uses-sdk
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+MERGED from [:invertase_react-native-apple-authentication] D:\CoFitapp\node_modules\@invertase\react-native-apple-authentication\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:invertase_react-native-apple-authentication] D:\CoFitapp\node_modules\@invertase\react-native-apple-authentication\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\CoFitapp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] D:\CoFitapp\node_modules\@react-native-async-storage\async-storage\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] D:\CoFitapp\node_modules\@react-native-community\geolocation\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] D:\CoFitapp\node_modules\@react-native-community\geolocation\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] D:\CoFitapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] D:\CoFitapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] D:\CoFitapp\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-signin_google-signin] D:\CoFitapp\node_modules\@react-native-google-signin\google-signin\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:amazon-cognito-identity-js] D:\CoFitapp\node_modules\amazon-cognito-identity-js\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:amazon-cognito-identity-js] D:\CoFitapp\node_modules\amazon-cognito-identity-js\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] D:\CoFitapp\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-date-picker] D:\CoFitapp\node_modules\react-native-date-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] D:\CoFitapp\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-device-info] D:\CoFitapp\node_modules\react-native-device-info\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] D:\CoFitapp\node_modules\react-native-fast-image\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fast-image] D:\CoFitapp\node_modules\react-native-fast-image\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] D:\CoFitapp\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-fs] D:\CoFitapp\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] D:\CoFitapp\node_modules\react-native-geolocation-service\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-geolocation-service] D:\CoFitapp\node_modules\react-native-geolocation-service\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\CoFitapp\node_modules\react-native-maps\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\CoFitapp\node_modules\react-native-maps\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\CoFitapp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] D:\CoFitapp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\CoFitapp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] D:\CoFitapp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] D:\CoFitapp\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-splash-screen] D:\CoFitapp\node_modules\react-native-splash-screen\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\CoFitapp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] D:\CoFitapp\node_modules\react-native-svg\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d96d703c4a0374a3a3ca77494a4531da\transformed\jetified-react-native-0.68.5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.68.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d96d703c4a0374a3a3ca77494a4531da\transformed\jetified-react-native-0.68.5\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\802d4f962958846f99497701cf3b99d0\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\802d4f962958846f99497701cf3b99d0\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42eed1552eda6b6a294d306c0ec848c7\transformed\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42eed1552eda6b6a294d306c0ec848c7\transformed\browser-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f847d2d73496ec3d012a8ae4db387b4f\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r250230] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f847d2d73496ec3d012a8ae4db387b4f\transformed\jetified-android-jsc-r250230\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] D:\CoFitapp\node_modules\react-native-sound\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-sound] D:\CoFitapp\node_modules\react-native-sound\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:6:5-8:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\96614dfab2e77c458ef331df84c71186\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\96614dfab2e77c458ef331df84c71186\transformed\jetified-fresco-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\de03a6029be782c12d28f5fad56ac0a7\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\de03a6029be782c12d28f5fad56ac0a7\transformed\jetified-imagepipeline-okhttp3-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e055dd3396c32c36ded400f7b61936ea\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e055dd3396c32c36ded400f7b61936ea\transformed\jetified-drawee-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\68fc6329660b9ec22b0e702b1db50167\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\68fc6329660b9ec22b0e702b1db50167\transformed\jetified-nativeimagefilters-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\0a4040c91546d3de521ea7084a5c821b\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\0a4040c91546d3de521ea7084a5c821b\transformed\jetified-memory-type-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\9c7e5a1c12ba80042a5221623e6e3da6\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\9c7e5a1c12ba80042a5221623e6e3da6\transformed\jetified-memory-type-java-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\13506c2bbb00fc4de71e523f01470cf7\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\13506c2bbb00fc4de71e523f01470cf7\transformed\jetified-imagepipeline-native-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\18c621772fdbd4eed3baf1ae5a32093f\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\18c621772fdbd4eed3baf1ae5a32093f\transformed\jetified-memory-type-ashmem-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a638552dd96840e09fbc4d7c6cede99e\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a638552dd96840e09fbc4d7c6cede99e\transformed\jetified-imagepipeline-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\3a255a453005be5cdabbdfcb8d73969f\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\3a255a453005be5cdabbdfcb8d73969f\transformed\jetified-nativeimagetranscoder-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dddf6e1ac0e5111113c733921a555718\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dddf6e1ac0e5111113c733921a555718\transformed\jetified-imagepipeline-base-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\67d14056b295b403e729babe71a271e9\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:ucrop:2.2.6-native] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\67d14056b295b403e729babe71a271e9\transformed\jetified-ucrop-2.2.6-native\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\1b07afc0bb79743b2de67031be8ea70a\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\1b07afc0bb79743b2de67031be8ea70a\transformed\material-1.6.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd7ec24dc2030eb6160fef3d9a8fc538\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd7ec24dc2030eb6160fef3d9a8fc538\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d1956ea26a889983d465be6e062d8c1c\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d1956ea26a889983d465be6e062d8c1c\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\65112bbf0ea95c6febc219c9aaa7a4d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\65112bbf0ea95c6febc219c9aaa7a4d0\transformed\jetified-autofill-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\97550cfd3e55f6119a8d83944e2dcffc\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\97550cfd3e55f6119a8d83944e2dcffc\transformed\jetified-middleware-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\b12f4135b3cd667c19a2d1aac3d5df11\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\b12f4135b3cd667c19a2d1aac3d5df11\transformed\jetified-ui-common-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\3dad67e27f0f13d4c544ec5c80a21c54\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\3dad67e27f0f13d4c544ec5c80a21c54\transformed\jetified-soloader-2.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.3] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\7924b8fa1a4cc2a22fb121b0c1d19ab1\transformed\jetified-soloader-0.10.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd92519a43f376896a2776b4ab5b2b2d\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\dd92519a43f376896a2776b4ab5b2b2d\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\95ca547a602019e79f8537eac24a6b2d\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\95ca547a602019e79f8537eac24a6b2d\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\caa4ca4fab4263d7b5eebd46bb20d8c9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\caa4ca4fab4263d7b5eebd46bb20d8c9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ef24baf15d72b40875cbaed2dd32431f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ef24baf15d72b40875cbaed2dd32431f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea6a459aac956603994ab6a561a39f53\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea6a459aac956603994ab6a561a39f53\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\38050d47d714e6df66eb456ca9cb005e\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\38050d47d714e6df66eb456ca9cb005e\transformed\jetified-play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5fd3d5f1f74bd035790afe86d2695e60\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5fd3d5f1f74bd035790afe86d2695e60\transformed\jetified-play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\16c0c0b039ae01dd0e6d83ccae822e05\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\16c0c0b039ae01dd0e6d83ccae822e05\transformed\jetified-play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\322aea48817281119371545f56c6bcdc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\322aea48817281119371545f56c6bcdc\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2989a3a8999bd9c61d8e13db504f7968\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2989a3a8999bd9c61d8e13db504f7968\transformed\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\150a1e8089aa5e500df22f0287cd2019\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\150a1e8089aa5e500df22f0287cd2019\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\040be45bb82f27b877836715f4031c30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\040be45bb82f27b877836715f4031c30\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d3b7111f962c769b952b0a4a14352cc1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d3b7111f962c769b952b0a4a14352cc1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\344e91e77ee509cf8fb97c9d4c59318b\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\344e91e77ee509cf8fb97c9d4c59318b\transformed\coordinatorlayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e4cc65531199957ebd427eec720f5251\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e4cc65531199957ebd427eec720f5251\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\84796b2958c1164c61c76b099db8bb0b\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\84796b2958c1164c61c76b099db8bb0b\transformed\jetified-emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\04746ee9aa3ad850c05a5e099631c25d\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\04746ee9aa3ad850c05a5e099631c25d\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a025dd8aa4e64ac89afa4cf0e9479ed5\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a025dd8aa4e64ac89afa4cf0e9479ed5\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6318acc1cfcf3078fd82cf055a5bbd80\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6318acc1cfcf3078fd82cf055a5bbd80\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6f4f15ef8ee51901eaf7cf4292fc1e7d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6f4f15ef8ee51901eaf7cf4292fc1e7d\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\18626f67cdc17dfca9f3faf24eba3271\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\18626f67cdc17dfca9f3faf24eba3271\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\054641bfa3e758885a2797a6568b4cd4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\054641bfa3e758885a2797a6568b4cd4\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\984607312a6e8ecf5c8fb0e1aabff2f8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\984607312a6e8ecf5c8fb0e1aabff2f8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\deb5eb746391b742ddb391109f985e49\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\deb5eb746391b742ddb391109f985e49\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\012c317610130ac07163361597e39f7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\012c317610130ac07163361597e39f7a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6d96996ddeb35327a127f381dedf8de\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6d96996ddeb35327a127f381dedf8de\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\56c7807c4e9a53d01d3b0def16a197ab\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\56c7807c4e9a53d01d3b0def16a197ab\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5b3cd3ee8b61a47e61b451e2ef7310a8\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\5b3cd3ee8b61a47e61b451e2ef7310a8\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a372cd16f700454c5bf91a4abc19d0ae\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d75aef0782ca4ed2c54237bdb0f5c010\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\d75aef0782ca4ed2c54237bdb0f5c010\transformed\sqlite-framework-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ba322caf2d176c5b2339c5c5d443ed1e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ba322caf2d176c5b2339c5c5d443ed1e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e469dfb1401e57b6efd07addb68a0f26\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e469dfb1401e57b6efd07addb68a0f26\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6860ecd3d12c846ddb3a8b59300ee011\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\6860ecd3d12c846ddb3a8b59300ee011\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\68fa321893b9d59d2209b899358e1e1b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\68fa321893b9d59d2209b899358e1e1b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\9062e797fa008105082a1b4ad943b70e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\9062e797fa008105082a1b4ad943b70e\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\62c96dde5e2c9d0a2940f968417aefb3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\62c96dde5e2c9d0a2940f968417aefb3\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2b132809905fb611ba2a96b522e30c68\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2b132809905fb611ba2a96b522e30c68\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f9e4d808ea5369ae0bd9e2919f4728a4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f9e4d808ea5369ae0bd9e2919f4728a4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\0ca2e25e9c4aa09c8c6ee9673f54bd57\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\0ca2e25e9c4aa09c8c6ee9673f54bd57\transformed\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8b221ddf2af6612777702b023154a16d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8b221ddf2af6612777702b023154a16d\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\44d5e8d68f132727ce0c5a1a38c71d29\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\44d5e8d68f132727ce0c5a1a38c71d29\transformed\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e7c700db09b3dab7a18096447b2aff5c\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e7c700db09b3dab7a18096447b2aff5c\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\48f72275b365c97970a5871768952523\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\48f72275b365c97970a5871768952523\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\4f9dee5a418b2d8930d6dfe03f9e872c\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\4f9dee5a418b2d8930d6dfe03f9e872c\transformed\sqlite-2.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea2bc8a6c7153f424ec208fc967ffd36\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ea2bc8a6c7153f424ec208fc967ffd36\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\30128efa99cb4dcf9edd5ae034b0b27a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\30128efa99cb4dcf9edd5ae034b0b27a\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\174cf8f4cfc4568b11038e8812a5bbd6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\174cf8f4cfc4568b11038e8812a5bbd6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a68d0a918b672d4a96ead11f49784994\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a68d0a918b672d4a96ead11f49784994\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:5:5-7:41
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:5:5-7:41
+MERGED from [org.greenrobot:eventbus:3.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\c17967d238f555f73c4e4f99d6ae62ac\transformed\jetified-eventbus-3.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [org.greenrobot:eventbus:3.3.1] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\c17967d238f555f73c4e4f99d6ae62ac\transformed\jetified-eventbus-3.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\db9a2a00ea58cc0c4c846594eece0bee\transformed\jetified-numberpickerview-v1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.henninghall:numberpickerview:v1.1.5] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\db9a2a00ea58cc0c4c846594eece0bee\transformed\jetified-numberpickerview-v1.1.5\AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\09803fccc50388478b84724ec3d8d5d3\transformed\jetified-time4j-android-4.8-2021a\AndroidManifest.xml:7:5-9:41
+MERGED from [net.time4j:time4j-android:4.8-2021a] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\09803fccc50388478b84724ec3d8d5d3\transformed\jetified-time4j-android-4.8-2021a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\c7b1a5899b93ecf6f19e8e321521dd22\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\c7b1a5899b93ecf6f19e8e321521dd22\transformed\jetified-fbcore-2.5.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\315041ecfcd1c074893a6e01bca6da3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\315041ecfcd1c074893a6e01bca6da3a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoFitapp\android\app\src\main\AndroidManifest.xml
+provider#io.invertase.notifee.NotifeeInitProvider
+ADDED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:40
+	android:authorities
+		ADDED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-73
+	android:exported
+		ADDED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:notifee_react-native] D:\CoFitapp\node_modules\@notifee\react-native\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-68
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] D:\CoFitapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-76
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-76
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] D:\CoFitapp\node_modules\@react-native-community\netinfo\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-fs] D:\CoFitapp\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-81
+MERGED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-81
+MERGED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:15:5-81
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:5-81
+MERGED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:31:5-81
+	android:name
+		ADDED from [:react-native-fs] D:\CoFitapp\node_modules\react-native-fs\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-78
+queries
+ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-13:15
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+MERGED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:30:5-34:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-12:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-73
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:21-70
+provider#com.reactnative.ivpusic.imagepicker.IvpusicImagePickerFileProvider
+ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:18:9-26:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-60
+	android:exported
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-94
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-25:78
+	android:resource
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:25:17-75
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:24:17-67
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-30:72
+	android:theme
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-69
+	android:name
+		ADDED from [:react-native-image-crop-picker] D:\CoFitapp\node_modules\react-native-image-crop-picker\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-60
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-64
+	android:exported
+		ADDED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-webview] D:\CoFitapp\node_modules\react-native-webview\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-83
+uses-permission#com.android.vending.CHECK_LICENSE
+ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:5-68
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:23:5-68
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:23:5-68
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:10:5-68
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:19:22-65
+provider#com.RNFetchBlob.Utils.FileProvider
+ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:34:9-42:20
+	android:grantUriPermissions
+		ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:38:13-47
+	android:authorities
+		ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:36:13-60
+	android:exported
+		ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:rn-fetch-blob] D:\CoFitapp\node_modules\rn-fetch-blob\android\build\intermediates\merged_manifest\release\AndroidManifest.xml:35:13-62
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.12.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\2fd2a2e0e4eda520372f054a8bc705ad\transformed\jetified-okhttp3-integration-4.12.0\AndroidManifest.xml:12:13-84
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\965d32a34007813c5570ee34130fa1f5\transformed\jetified-play-services-iid-17.0.0\AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\045013a9f99ede467d26cdec46390126\transformed\jetified-play-services-auth-20.5.0\AndroidManifest.xml:34:13-89
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\150a1e8089aa5e500df22f0287cd2019\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\150a1e8089aa5e500df22f0287cd2019\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:3.8.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\42463ca49a49917f0d4302c02cbb6861\transformed\jetified-android-maps-utils-3.8.2\AndroidManifest.xml:9:13-58
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:28:9-32
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\8d1bda614e82f5879589f3e053c1f59c\transformed\jetified-play-services-maps-18.2.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.2.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ec0bb410074725113a09cf5a8d882d3b\transformed\jetified-play-services-base-18.2.0\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:29:9-37:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ba322caf2d176c5b2339c5c5d443ed1e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\ba322caf2d176c5b2339c5c5d443ed1e\transformed\jetified-startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\27750eed2a3b7b3710246e5d3a013f86\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:25:5-81
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:12:5-81
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:26:5-77
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:15:5-77
+MERGED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:26:22-74
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:34:13-36:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:36:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:35:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:39:9-45:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:43:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:44:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:45:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:46:9-52:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:49:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:50:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:51:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:52:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:47:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:53:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:56:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:57:13-37
+	tools:ignore
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:58:13-60
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:54:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.8.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\05981892a037a960fae1444528718b7a\transformed\work-runtime-2.8.0\AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.5.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\f6b6203989a75e18f7bad6a3785ac126\transformed\room-runtime-2.5.0\AndroidManifest.xml:25:13-74
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\e1937e64cc1cae0fd912091b3c9bf35a\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.BROADCAST_CLOSE_SYSTEM_DIALOGS
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:18:5-20:38
+	android:maxSdkVersion
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:20:9-35
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:19:9-73
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:22:5-24:38
+	android:minSdkVersion
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:24:9-35
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:23:9-69
+service#app.notifee.core.ReceiverService
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:29:9-31:40
+	android:exported
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:30:13-60
+activity#app.notifee.core.NotificationReceiverActivity
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:33:9-39:75
+	android:excludeFromRecents
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:35:13-46
+	android:noHistory
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:37:13-37
+	android:exported
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:36:13-36
+	android:theme
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:39:13-72
+	android:taskAffinity
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:34:13-73
+service#app.notifee.core.ForegroundService
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:43:13-62
+receiver#app.notifee.core.RebootBroadcastReceiver
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:46:9-54:20
+	android:exported
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:47:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:51:17-82
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:51:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:52:17-82
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:52:25-79
+receiver#app.notifee.core.AlarmPermissionBroadcastReceiver
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:55:9-61:20
+	android:exported
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:57:13-36
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:56:13-77
+intent-filter#action:name:android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:58:13-60:29
+action#android.app.action.SCHEDULE_EXACT_ALARM_PERMISSION_STATE_CHANGED
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:59:17-107
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:59:25-104
+receiver#app.notifee.core.NotificationAlarmReceiver
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:62:9-70:20
+	android:exported
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:63:13-70
+receiver#app.notifee.core.BlockStateBroadcastReceiver
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:73:9-81:20
+	android:exported
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:74:13-72
+intent-filter#action:name:android.app.action.APP_BLOCK_STATE_CHANGED+action:name:android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED+action:name:android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:76:13-80:29
+action#android.app.action.APP_BLOCK_STATE_CHANGED
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:77:17-85
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:77:25-82
+action#android.app.action.NOTIFICATION_CHANNEL_BLOCK_STATE_CHANGED
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:78:17-102
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:78:25-99
+action#android.app.action.NOTIFICATION_CHANNEL_GROUP_BLOCK_STATE_CHANGED
+ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:79:17-108
+	android:name
+		ADDED from [app.notifee:core:202108261754] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\a60e49ac87dd85bb013cb94375cd2dfa\transformed\jetified-core-202108261754\AndroidManifest.xml:79:25-105
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] C:\Users\Alta Tech Mark\.gradle\caches\transforms-3\cffea1e99c5bdc80e9dd3919c5485add\transformed\jetified-installreferrer-1.1.2\AndroidManifest.xml:9:22-107
