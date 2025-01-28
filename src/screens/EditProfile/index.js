@@ -22,6 +22,7 @@ import { AppMainButton } from '../../components/AppButton'
 import Toast from "react-native-simple-toast";
 import { ActivityIndicator } from 'react-native';
 import { Loading } from 'aws-amplify-react-native/dist/Auth'
+import CountryPicker from "react-native-country-picker-modal";
 
 
 const { StatusBarManager } = NativeModules;
@@ -35,7 +36,10 @@ const EditProfile = ({ navigation }) => {
   const [name, setName] = useState('')
   const [firstName, setFirstName] = useState('')
   const [lastName, setLastName] = useState('')
-  const [phoneNo, setPhoneNo] = useState('')
+  const [phoneNo, setPhoneNo] = useState('');
+  const [countryCode, setCountryCode] = useState("US"); // Default country code
+  const [callingCode, setCallingCode] = useState("1"); // Default calling code
+  const [isVisible, setIsVisible] = useState(false); // Visibility for the country picker
   const [profileImage, setProfileImage] = useState('')
   const dispatch = useDispatch()
   const userInfo = useSelector((state) => state.user.userInfo);
@@ -363,7 +367,7 @@ const EditProfile = ({ navigation }) => {
               value={lastName}
               onChangeText={(val) => setLastName(val)}
               placeholderTextColor={"#020A23"}
-              style={{ flex: 1, paddingLeft: 10, fontFamily: fonts.SfPro_Medium }}
+              style={{ flex: 1, paddingLeft: 10, fontFamily: fonts.SfPro_Medium, color: "#020A23" }}
             />
           </View>
         </View>
@@ -383,25 +387,61 @@ const EditProfile = ({ navigation }) => {
         </View>
 
         <Text style={[styles.locationText, { marginLeft: "5%", marginTop: 20 }]}>Phone Number</Text>
-        <View style={styles.textInputView}>
-          <View style={styles.phoneInputView1}>
-            <Text style={{color: colors.black, fontFamily: fonts.SfPro_Medium}}>+1 (US)</Text>
-            <Image source={images.arrNew1} style={[styles.nextArrowIcon, { transform: [{ rotate: "90deg" }], marginLeft: 5 }]} />
-          </View>
-          <View style={styles.phoneInputView2}>
-            <TextInput
-              editable={true}
-              placeholder='Phone number'
-              placeholderTextColor={"#020A23"}
-              maxLength={14}
-              keyboardType='number-pad'
-              returnKeyType='done'
-              value={phoneNo}
-              onChangeText={(val) => setPhoneNo(formatPhoneNumber(val))}
-              style={{ flex: 1, paddingLeft: 10, fontFamily: fonts.SfPro_Medium, color: "#020A23" }}
-            />
-          </View>
+      <View style={styles.textInputView}>
+        {/* Country Code Picker */}
+        <View  style={styles.phoneInputView1}> 
+        <CountryPicker
+          withFilter
+          withCallingCode
+          withFlag
+          withEmoji
+          visible={isVisible}
+          onSelect={(country) => {
+            setCountryCode(country.cca2);
+            setCallingCode(country.callingCode[0]);
+            setIsVisible(false);
+          }}
+          onClose={() => setIsVisible(false)}
+          countryCode={countryCode}
+        />
+
+        <TouchableOpacity
+          style={styles.countryPickerInput}
+          onPress={() => setIsVisible(true)}
+        >
+          <Text style={{ color: colors.black, fontFamily: fonts.SfPro_Medium }}>
+            +{callingCode} ({countryCode})
+          </Text>
+          <Image
+            source={images.arrNew1}
+            style={[
+              styles.nextArrowIcon,
+              { transform: [{ rotate: "90deg" }], marginLeft: 5 },
+            ]}
+          />
+        </TouchableOpacity>
         </View>
+       
+        {/* Phone Number Input */}
+        <View style={styles.phoneInputView2}>
+          <TextInput
+            editable={true}
+            placeholder="Phone number"
+            placeholderTextColor={"#020A23"}
+            maxLength={14}
+            keyboardType="number-pad"
+            returnKeyType="done"
+            value={phoneNo}
+            onChangeText={(val) => setPhoneNo(formatPhoneNumber(val))}
+            style={{
+              flex: 1,
+              paddingLeft: 10,
+              fontFamily: fonts.SfPro_Medium,
+              color: "#020A23",
+            }}
+          />
+        </View>
+      </View>
         <AppMainButton title="Update" isLoading={isLoading} disable={false} onPress={onUpdate} />
         {/* <TouchableOpacity onPress={()=>onUpdate()} style={[styles.bottomBtn1,{marginTop:20}]}>
 <Text style={styles.btnText1}>Update</Text>

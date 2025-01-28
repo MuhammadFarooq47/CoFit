@@ -112,7 +112,7 @@ const styles = StyleSheet.create({
     },
     phoneInputView1:{
         flexDirection:"row",
-        width:"34%",
+        width:"40%",
         height:45,
         backgroundColor:"#fff",
         borderWidth:1.5,
@@ -121,8 +121,19 @@ const styles = StyleSheet.create({
         justifyContent:"center",
         alignItems:"center"
     },
+    countryPickerInput:{
+        flexDirection:"row",
+        // width:"34%",
+        // height:45,
+        // backgroundColor:"#fff",
+        // borderWidth:1.5,
+        // borderColor:"#A1A5AC",
+        // borderRadius:11,
+        justifyContent:"center",
+        alignItems:"center"
+    },
     phoneInputView2:{
-        width:"60%",
+        width:"55%",
         height:45,
         backgroundColor:"#fff",
         borderWidth:1.5,
@@ -363,6 +374,7 @@ seperator1: {
   width: '100%',
   backgroundColor: '#E6E0E9'
 },
+
 
 })
 
